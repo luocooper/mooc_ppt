@@ -3,8 +3,8 @@
 ### 依赖环境
 1. 安装python解释器
 2. 安装chrome浏览器
-3. 安装相关依赖包 pip install selenium,webdriver-manager,lxml,requests,PyPDF2
--
+3. 安装相关依赖包  #### pip install selenium,webdriver-manager,lxml,requests,PyPDF2
+
 ### 三个主要步骤：
 - 利用selenium点开网页,提取下载链接
 - 利用requests下载PTT并保存到本地
